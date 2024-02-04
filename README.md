@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
 
 
 ![Screenshot_2](https://github.com/canerdogann/Fitness-App-Front/assets/148792959/3c8f6e78-6663-4a3b-8ab1-42615cb6c39b)
@@ -23,3 +23,5 @@
 ![Screenshot_6](https://github.com/canerdogann/Fitness-App-Front/assets/148792959/bace38d0-36e5-442f-afe0-e01ee690dd2d)
 <br></br>
 ![Screenshot_8](https://github.com/canerdogann/Fitness-App-Front/assets/148792959/e3b4a01f-67f2-462f-977f-2953b62d8796)
+
+[@keyvanarasteh] (https://github.com/keyvanarasteh)
