@@ -9,11 +9,17 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+
 
 ![Screenshot_2](https://github.com/canerdogann/Fitness-App-Front/assets/148792959/3c8f6e78-6663-4a3b-8ab1-42615cb6c39b)
+<br></br>
 ![Screenshot_3](https://github.com/canerdogann/Fitness-App-Front/assets/148792959/f31eddea-14a1-4c42-8462-73b18a5a47ce)
+<br></br>
 ![Screenshot_4](https://github.com/canerdogann/Fitness-App-Front/assets/148792959/924fb3d9-77f7-4d7c-b290-cde078eb0f58)
+<br></br>
 ![Screenshot_5](https://github.com/canerdogann/Fitness-App-Front/assets/148792959/a06e415c-e67b-4cee-a97f-80b138f28d5e)
+<br></br>
 ![Screenshot_6](https://github.com/canerdogann/Fitness-App-Front/assets/148792959/bace38d0-36e5-442f-afe0-e01ee690dd2d)
+<br></br>
 ![Screenshot_8](https://github.com/canerdogann/Fitness-App-Front/assets/148792959/e3b4a01f-67f2-462f-977f-2953b62d8796)
